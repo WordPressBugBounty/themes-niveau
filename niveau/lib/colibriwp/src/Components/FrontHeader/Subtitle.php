@@ -43,7 +43,7 @@ class Subtitle extends ComponentBase {
 
 				),
 				"{$prefix}localProps.content" => array(
-					'default' => Defaults::get( 'lorem_ipsum' ),
+					'default' => __( 'Maecenas nec egestas neque. Nullam vel massa finibus, laoreet urna nec, scelerisque neque. Morbi rutrum ex a volutpat dignissim.', 'niveau' ),
 					'control' => array(
 						'label'       => Translations::get( 'subtitle' ),
 						'type'        => 'input',

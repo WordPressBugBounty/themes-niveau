@@ -186,11 +186,11 @@ $niveau_gradients                     = array(
 		),
 
 );
-$niveau_theme_action_button           = __( 'Get started today', 'niveau' );
-$niveau_theme_action_button_secondary = __( 'Learn more', 'niveau' );
+$niveau_theme_action_button           =  'Get started today';
+$niveau_theme_action_button_secondary = 'Learn more';
 
-$niveau_theme_click_pen_to_edit_title = __( 'Where businesses learn to level up', 'niveau' );
-$niveau_lorem_ipsum                   = __( 'Maecenas nec egestas neque. Nullam vel massa finibus, laoreet urna nec, scelerisque neque. Morbi rutrum ex a volutpat dignissim.', 'niveau' );
+$niveau_theme_click_pen_to_edit_title = 'Where businesses learn to level up';
+$niveau_lorem_ipsum                   =  'Maecenas nec egestas neque. Nullam vel massa finibus, laoreet urna nec, scelerisque neque. Morbi rutrum ex a volutpat dignissim.';
 
 return array(
 	'default_icon'                 => $niveau_theme_svg_icons['fort-awesome'],

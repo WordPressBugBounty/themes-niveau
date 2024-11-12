@@ -129,7 +129,6 @@ return array (
                   'source' => 
                   array (
                     'type' => 'image',
-                    'url' => 'https://wps.iconvert.pro/wp/kubio-themes/niveau-default/wp-content/uploads/2023/04/hero-new-scaled-1.jpg',
                   ),
                   'position' => 
                   array (
@@ -405,7 +404,6 @@ return array (
                   'source' => 
                   array (
                     'type' => 'image',
-                    'url' => 'https://wps.iconvert.pro/wp/kubio-themes/niveau-default/wp-content/uploads/2023/04/hero-new-scaled-1.jpg',
                   ),
                   'position' => 
                   array (
